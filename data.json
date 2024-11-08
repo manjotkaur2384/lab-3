@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Manjot Kaur",
+    "car": "G Wagon"
+  },
+  {
+    "id": 2,
+    "name": "Karam",
+    "car": "Thar Roxx"
+  },
+  {
+    "id": 3,
+    "name": "Mohit Kumar",
+    "car": "mercedez S63 maybach"
+  },
+  {
+    "id": 4,
+    "name": "Diksha",
+    "car": "porsche"
+  },
+  {
+    "id": 5,
+    "name": "vardaan",
+    "car": "Mustang"
+  },
+  {
+    "id": 6,
+    "name": "abhishek",
+    "car": "BMW"
+  }
+]
